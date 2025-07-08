@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "406920164086",
+    "project_id": "biblioshare-262ba",
+    "storage_bucket": "biblioshare-262ba.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406920164086:android:8948ee2cb39cf95c7f72d7",
+        "android_client_info": {
+          "package_name": "com.example.biblioshare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFIwL-tdY5fUos4JFJpcl97yAzP2Kqpqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
