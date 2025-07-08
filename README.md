@@ -1,16 +1,23 @@
-# biblioshare
+# 📚 BiblioShare
 
-A new Flutter project.
+**BiblioShare** es una aplicación móvil de lectura colaborativa desarrollada con Flutter. Permite a los usuarios:
 
-## Getting Started
+- Explorar libros populares desde Open Library
+- Escribir reseñas públicas y guardarlas localmente
+- Guardar libros para leer más tarde (local)
+- Ver estadísticas personales
+- Autenticarse mediante Firebase
+- Compartir reseñas con otros lectores
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Características principales
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 🔍 Consulta de libros populares desde Open Library
+- 📥 Guardado local de libros para leer más tarde
+- ✍️ Reseñas públicas sincronizadas con Firebase
+- 🧾 Reseñas privadas almacenadas localmente
+- 📊 Estadísticas personales en el menú lateral
+- 🔐 Autenticación con correo mediante Firebase Auth
+- 🛜 Sincronización en tiempo real con Firestore
+- 📦 Soporte para modo offline con SQLite
